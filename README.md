@@ -6,15 +6,17 @@ Bienvenido al repositorio del *Challenge Alura Store Latam*, un proyecto de aná
 
 ## 🎯 **Objetivo del proyecto**
 
-El objetivo de este desafío fue analizar el desempeño de **cuatro tiendas** (Tienda 1, Tienda 2, Tienda 3 y Tienda 4) en función de:
+Este proyecto tiene como objetivo analizar el desempeño de **cuatro tiendas de Alura Store**con el fin de **identificar cuál de ellas presenta los resultados menos favorables y es candidata a ser cerrada.**
+
+Se analiza:
 
 - Ingresos por ventas
-- Costo de envío
+- Ventas por categoría
 - Experiencia del cliente (calificaciones)
-- Eficiencia operativa
-
-El resultado final fue definir, con base en datos, **cuál tienda sería la mejor candidata a cerrar**.
-
+- Costo de envío
+- Distribución geográfica de las ventas
+  
+A partir de estos indicadores, se generan visualizaciones y conclusiones que respaldan la toma de decisiones estratégica.
 ---
 
 ## 📋 **Descripción del análisis**
