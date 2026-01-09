@@ -53,11 +53,17 @@ El análisis está realizado utilizando:
 El repositorio contiene los siguientes archivos:
 
 ├── 📓 AluraStore.ipynb        # Notebook principal con el análisis completo
+
 ├── 📄 tienda_1.csv            # Datos de ventas de la Tienda 1
+
 ├── 📄 tienda_2.csv            # Datos de ventas de la Tienda 2
+
 ├── 📄 tienda_3.csv            # Datos de ventas de la Tienda 3
+
 ├── 📄 tienda_4.csv            # Datos de ventas de la Tienda 4
+
 ├── 📁 images                  # Gráficos generados en el análisis
+
 └── README.md                  # Documentación del proyecto
 
 - **CSV**: Datos por tienda
