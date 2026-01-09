@@ -79,7 +79,7 @@ El notebook AluraStore.ipynb está organizado en las siguientes secciones:
 - Comparación entre tiendas
 - Conclusiones y recomendación final
 
-##**Análisis y gráficos**
+**Análisis y gráficos**
 
 **Ingresos totales por tienda**
 
