@@ -52,16 +52,34 @@ El análisis está realizado utilizando:
 
 El repositorio contiene los siguientes archivos:
 
-📦 Challenge-Alura-Store
-┣ 📜 tienda_1.csv
-┣ 📜 tienda_2.csv
-┣ 📜 tienda_3.csv
-┣ 📜 tienda_4.csv
-┗ 📓 AluraStoreLatam.ipynb
-
+├── 📓 AluraStore.ipynb        # Notebook principal con el análisis completo
+├── 📄 tienda_1.csv            # Datos de ventas de la Tienda 1
+├── 📄 tienda_2.csv            # Datos de ventas de la Tienda 2
+├── 📄 tienda_3.csv            # Datos de ventas de la Tienda 3
+├── 📄 tienda_4.csv            # Datos de ventas de la Tienda 4
+├── 📁 images                  # Gráficos generados en el análisis
+└── README.md                  # Documentación del proyecto
 
 - **CSV**: Datos por tienda
 - **Notebook (.ipynb)**: Análisis completo y conclusiones paso a paso
+
+
+**Ingresos totales por tienda**
+
+Insight:
+La Tienda 4 presenta los ingresos más bajos, a pesar de tener una cantidad de productos vendidos muy similar a las demás tiendas.
+
+
+**Costo promedio de envío por tienda**
+
+Insight:
+La Tienda 4 tiene el costo de envío promedio más bajo, lo que podría indicar menor cobertura logística o estrategias de envío diferentes, sin que esto se traduzca en mayores ingresos o mejor percepción del cliente.
+
+**Calificación promedio**
+
+Insight:
+Las calificaciones promedio son muy similares entre tiendas, por lo que la experiencia del cliente no es el principal diferenciador en la decisión de cierre.
+
 
 ---
 
