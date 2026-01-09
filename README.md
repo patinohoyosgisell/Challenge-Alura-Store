@@ -65,8 +65,8 @@ El repositorio contiene los siguientes archivos:
 
 
 **Ingresos totales por tienda**
+![Ingresos por tienda](ingresos_por_tienda.png)
 
-Insight:
 La Tienda 4 presenta los ingresos más bajos, a pesar de tener una cantidad de productos vendidos muy similar a las demás tiendas.
 
 
