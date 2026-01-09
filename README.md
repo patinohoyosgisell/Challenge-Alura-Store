@@ -63,6 +63,15 @@ El repositorio contiene los siguientes archivos:
 - **CSV**: Datos por tienda
 - **Notebook (.ipynb)**: Análisis completo y conclusiones paso a paso
 
+## 📓 Contenido del notebook
+
+El notebook AluraStore.ipynb está organizado en las siguientes secciones:
+
+- Carga y exploración de datos
+- Análisis de métricas por tienda
+- Visualización de resultados
+- Comparación entre tiendas
+- Conclusiones y recomendación final
 
 **Ingresos totales por tienda**
 
@@ -96,6 +105,31 @@ Después de comparar las cuatro tiendas con métricas clave, el análisis determ
 Esto se basa en un enfoque cuantitativo orientado a la **optimización del portafolio de ventas**.
 
 ---
+
+▶️ Instrucciones para ejecutar el notebook
+🔧 Requisitos
+
+-Python 3.x
+-Jupyter Notebook
+-Librerías:
+  -pandas
+  -matplotlib
+  -seaborn
+
+📝 Pasos para ejecutar
+
+1. Clona este repositorio:
+git clone https://github.com/patinohoyosgisell/Challenge-Alura-Store.git
+
+2. Accede a la carpeta del proyecto:
+cd Challenge-Alura-Store
+
+3. Abre el notebook:
+jupyter notebook AluraStore.ipynb
+
+Ejecuta las celdas en orden para reproducir el análisis.
+
+💡 También puedes subir el notebook a Google Colab y ejecutar el análisis sin configuración local.
 
 ## 🖋️ **Sobre la autora**
 
