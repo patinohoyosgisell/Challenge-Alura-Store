@@ -65,21 +65,24 @@ El repositorio contiene los siguientes archivos:
 
 
 **Ingresos totales por tienda**
-![Ingresos por tienda](ingresos_por_tienda.png)
 
 La Tienda 4 presenta los ingresos más bajos, a pesar de tener una cantidad de productos vendidos muy similar a las demás tiendas.
+
+![Ingresos por tienda](ingresos_por_tienda.png)
 
 
 **Costo promedio de envío por tienda**
 
-Insight:
 La Tienda 4 tiene el costo de envío promedio más bajo, lo que podría indicar menor cobertura logística o estrategias de envío diferentes, sin que esto se traduzca en mayores ingresos o mejor percepción del cliente.
+
+![Costo de envío promedio por tienda](costo_envio_promedio_por_tienda.png)
+
 
 **Calificación promedio**
 
-Insight:
 Las calificaciones promedio son muy similares entre tiendas, por lo que la experiencia del cliente no es el principal diferenciador en la decisión de cierre.
 
+![Calificación promedio por tienda](calificacion_promedio_por_tienda.png)
 
 ---
 
