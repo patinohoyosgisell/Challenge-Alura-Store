@@ -79,6 +79,8 @@ El notebook AluraStore.ipynb está organizado en las siguientes secciones:
 - Comparación entre tiendas
 - Conclusiones y recomendación final
 
+##**Análisis y gráficos**
+
 **Ingresos totales por tienda**
 
 La Tienda 4 presenta los ingresos más bajos, a pesar de tener una cantidad de productos vendidos muy similar a las demás tiendas.
@@ -112,7 +114,7 @@ Esto se basa en un enfoque cuantitativo orientado a la **optimización del porta
 
 ---
 
-▶️ Instrucciones para ejecutar el notebook
+##**▶️ Instrucciones para ejecutar el notebook**
 🔧 Requisitos
 
 -Python 3.x
@@ -122,7 +124,7 @@ Esto se basa en un enfoque cuantitativo orientado a la **optimización del porta
   -matplotlib
   -seaborn
 
-📝 Pasos para ejecutar
+**📝 Pasos para ejecutar**
 
 1. Clona este repositorio:
 git clone https://github.com/patinohoyosgisell/Challenge-Alura-Store.git
@@ -135,7 +137,7 @@ jupyter notebook AluraStore.ipynb
 
 Ejecuta las celdas en orden para reproducir el análisis.
 
-💡 También puedes subir el notebook a Google Colab y ejecutar el análisis sin configuración local.
+*💡 También puedes subir el notebook a Google Colab y ejecutar el análisis sin configuración local.*
 
 ## 🖋️ **Sobre la autora**
 
